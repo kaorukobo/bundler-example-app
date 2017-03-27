@@ -1,0 +1,1 @@
+gem "bundler_example_lib", git: "https://github.com/kaorukobo/bundler-example-lib.git", branch: "master"

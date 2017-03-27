@@ -1,0 +1,18 @@
+GIT
+  remote: https://github.com/kaorukobo/bundler-example-lib.git
+  revision: 09a0298bd67fd4bfaff956233ed2281dcca5177b
+  branch: master
+  specs:
+    bundler_example_lib (0.1.0)
+
+GEM
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler_example_lib!
+
+BUNDLED WITH
+   1.14.4
